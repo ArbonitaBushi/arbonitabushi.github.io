@@ -10,6 +10,16 @@ html {
 h1 {
     text-align: center;
 }
+
 .image {
     text-align: center;
 }
+
+.container {
+    background-color: whitesmoke;
+    margin-top: 2%;
+    max-width: 1200px;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
